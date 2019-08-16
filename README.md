@@ -1,3 +1,3 @@
-# js-hgtuow
+# spinningWheelRandom
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-hgtuow)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/spinningwheelrandom)
